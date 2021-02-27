@@ -12,6 +12,9 @@ public class Class1 {
 	
 	for(int i=0; i<44; i++);
 	//tuna
+	//nurtuna
+	for(int b=0 ; b<44; b++);
+	for(int z=0; z<40; z++);
 	}
 
 }
